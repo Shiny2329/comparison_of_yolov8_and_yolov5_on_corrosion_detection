@@ -44,7 +44,9 @@ pip install onnx
 
 ## Training
 
-You may refer to .py files in this repository.
+- Create the .py and .YAML files and write the code provided.
+- Modify the files as needed
+- Run the .py file
 
 ## Results
 
