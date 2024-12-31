@@ -44,7 +44,7 @@ pip install onnx
 
 ## Training
 
-You may refer to main.py file in this repository.
+You may refer to .py files in this repository.
 
 ## Results
 
