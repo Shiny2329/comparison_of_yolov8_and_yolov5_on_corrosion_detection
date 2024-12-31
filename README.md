@@ -138,11 +138,21 @@ The performance of the models I trained is given below:
   </tr>
 </table>
 
+- Precision: YOLOv5n consistently achieves higher precision across training, validation, and testing phases compared to YOLOv8n.
+- Recall: YOLOv5n shows superior recall values for all datasets.
+- mAP@50: YOLOv5n demonstrates better performance in mAP@50 across all phases.
+- mAP@50-95: YOLOv8n slightly outperforms YOLOv5n, indicating better generalization over different IoU thresholds.
+- Training Time: YOLOv5n trains faster, taking 2.833 hours compared to YOLOv8n's 3.137 hours.
+
 ## Acknowledgments
+
+YOLO models:
 
 - [YOLOv5 Repository](https://github.com/ultralytics/yolov5)
 - [YOLOv8 Repository](https://github.com/ultralytics/ultralytics)
-- Dataset sources and contributors
+
+Dataset sources and contributors:
+
 - [Dataset Owner : CawilAI Interns July 2023](https://universe.roboflow.com/cawilai-interns-july-2023)
 - [Dataset](https://universe.roboflow.com/cawilai-interns-july-2023/corrosion-instance-segmentation-sfcpc/dataset/16)
 
