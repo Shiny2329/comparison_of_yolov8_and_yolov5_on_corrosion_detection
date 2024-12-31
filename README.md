@@ -15,10 +15,10 @@ The corrosion dataset was downloaded for YOLOv5 and YOLOv8 formats. The link for
 
 ## Resources
 
-Microsoft Visual Studio 2022 was used.
-NVIDIA GeForce GTX 1050 was used.
-The model YOLOv5n and YOLOv8n were used.
-The model was trained on 30 epochs.
+- Microsoft Visual Studio 2022 was used.
+- NVIDIA GeForce GTX 1050 was used.
+- The model YOLOv5n and YOLOv8n were used.
+- The model was trained on 30 epochs.
 
 ## Prerequisites
 
