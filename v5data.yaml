@@ -1,3 +1,6 @@
+# This file contains path to the dataset
+# You will have to change the path to your dataset directory location
+
 train: H:\Corrosion Instance Segmentation Dataset v5\train\images
 val: H:\Corrosion Instance Segmentation Dataset v5\valid\images
 test: H:\Corrosion Instance Segmentation Dataset v5\test\images
