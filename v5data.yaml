@@ -1,0 +1,6 @@
+train: H:\Corrosion Instance Segmentation Dataset v5\train\images
+val: H:\Corrosion Instance Segmentation Dataset v5\valid\images
+test: H:\Corrosion Instance Segmentation Dataset v5\test\images
+
+nc: 1
+names: ['Corrosion']
